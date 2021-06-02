@@ -3,8 +3,3 @@
 /* Import your desired components first */
 
 @import url(firefox-csshacks/chrome/multi-row_tabs.css);
-
-.tab-content {
-    border-right: solid 1px #CCC;
-    border-top: 1px solid #CCC;
-}
